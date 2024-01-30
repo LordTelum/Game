@@ -1,6 +1,3 @@
-[submodule "Matching Game/Matching/Assets/ArtisanDream.Tools.git"]
-	path = Matching Game/Matching/Assets/ArtisanDream.Tools.git
-	url = https://github.com/LordTelum/ArtisanDream.Tools.git
 [submodule "Matching Game/Matching/Assets/Scripts"]
 	path = Matching Game/Matching/Assets/Scripts
 	url = https://github.com/LordTelum/scripts.git
