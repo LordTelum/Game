@@ -1,3 +1,6 @@
 [submodule "Matching Game/Matching/Assets/Scripts"]
 	path = Matching Game/Matching/Assets/Scripts
 	url = https://github.com/LordTelum/scripts.git
+[submodule "Matching Game/ 2D matching/Assets/Scripts"]
+	path = Matching Game/ 2D matching/Assets/Scripts
+	url = https://github.com/LordTelum/scripts.git
