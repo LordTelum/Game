@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4777227637619494819}
   - component: {fileID: 7594239817702464149}
   - component: {fileID: 8313401173336406925}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Path
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -115,7 +115,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8381250697263285012}
   - component: {fileID: 4596941804866753022}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Path Obj
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -150,4 +150,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a84789a413a9a3469d2a002069960d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 10
