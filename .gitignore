@@ -78,3 +78,5 @@ ScriptingForArtists/ScriptingForArtists-csharp.sln
 
 # Log files
 *.log
+
+Runner/UserSettings/
